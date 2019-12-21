@@ -1,7 +1,7 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
     <Components>
-        <Component>
+	<Component>
             <Id>
                 <TypeId>Component</TypeId>
                 <SubtypeId>Construction</SubtypeId>
@@ -22,12 +22,12 @@
             <Health>18</Health>
             <MinimumOfferAmount>1000</MinimumOfferAmount>
             <MaximumOfferAmount>5000</MaximumOfferAmount>
-            <MinimumOrderAmount>100</MinimumOrderAmount>
-            <MaximumOrderAmount>1000</MaximumOrderAmount>
+            <MinimumOrderAmount>1000</MinimumOrderAmount>
+            <MaximumOrderAmount>10000</MaximumOrderAmount>
             <CanPlayerOrder>true</CanPlayerOrder>
 
-            <MinimumAcquisitionAmount>100</MinimumAcquisitionAmount>
-            <MaximumAcquisitionAmount>1000</MaximumAcquisitionAmount>
+            <MinimumAcquisitionAmount>1000</MinimumAcquisitionAmount>
+            <MaximumAcquisitionAmount>10000</MaximumAcquisitionAmount>
         </Component>
         <Component>
             <Id>
@@ -50,12 +50,12 @@
             <Health>69</Health>
             <MinimumOfferAmount>250</MinimumOfferAmount>
             <MaximumOfferAmount>1000</MaximumOfferAmount>
-            <MinimumOrderAmount>125</MinimumOrderAmount>
-            <MaximumOrderAmount>1000</MaximumOrderAmount>
+            <MinimumOrderAmount>1250</MinimumOrderAmount>
+            <MaximumOrderAmount>10000</MaximumOrderAmount>
             <CanPlayerOrder>true</CanPlayerOrder>
 
-            <MinimumAcquisitionAmount>125</MinimumAcquisitionAmount>
-            <MaximumAcquisitionAmount>1000</MaximumAcquisitionAmount>
+            <MinimumAcquisitionAmount>1250</MinimumAcquisitionAmount>
+            <MaximumAcquisitionAmount>10000</MaximumAcquisitionAmount>
         </Component>
         <Component>
             <Id>
@@ -78,12 +78,12 @@
             <Health>36</Health>
             <MinimumOfferAmount>1000</MinimumOfferAmount>
             <MaximumOfferAmount>5000</MaximumOfferAmount>
-            <MinimumOrderAmount>500</MinimumOrderAmount>
-            <MaximumOrderAmount>1000</MaximumOrderAmount>
+            <MinimumOrderAmount>5000</MinimumOrderAmount>
+            <MaximumOrderAmount>10000</MaximumOrderAmount>
             <CanPlayerOrder>true</CanPlayerOrder>
 
-            <MinimumAcquisitionAmount>100</MinimumAcquisitionAmount>
-            <MaximumAcquisitionAmount>1000</MaximumAcquisitionAmount>
+            <MinimumAcquisitionAmount>1000</MinimumAcquisitionAmount>
+            <MaximumAcquisitionAmount>10000</MaximumAcquisitionAmount>
         </Component>
         <Component>
             <Id>
@@ -106,12 +106,12 @@
             <Health>53</Health>
             <MinimumOfferAmount>250</MinimumOfferAmount>
             <MaximumOfferAmount>2500</MaximumOfferAmount>
-            <MinimumOrderAmount>100</MinimumOrderAmount>
-            <MaximumOrderAmount>1000</MaximumOrderAmount>
+            <MinimumOrderAmount>1000</MinimumOrderAmount>
+            <MaximumOrderAmount>10000</MaximumOrderAmount>
             <CanPlayerOrder>true</CanPlayerOrder>
 
-            <MinimumAcquisitionAmount>100</MinimumAcquisitionAmount>
-            <MaximumAcquisitionAmount>1000</MaximumAcquisitionAmount>
+            <MinimumAcquisitionAmount>1000</MinimumAcquisitionAmount>
+            <MaximumAcquisitionAmount>10000</MaximumAcquisitionAmount>
         </Component>
         <Component>
             <Id>
@@ -133,12 +133,12 @@
             <DropProbability>0.5</DropProbability>
             <MinimumOfferAmount>100</MinimumOfferAmount>
             <MaximumOfferAmount>1000</MaximumOfferAmount>
-            <MinimumOrderAmount>40</MinimumOrderAmount>
-            <MaximumOrderAmount>400</MaximumOrderAmount>
+            <MinimumOrderAmount>400</MinimumOrderAmount>
+            <MaximumOrderAmount>4000</MaximumOrderAmount>
             <CanPlayerOrder>true</CanPlayerOrder>
 
-            <MinimumAcquisitionAmount>40</MinimumAcquisitionAmount>
-            <MaximumAcquisitionAmount>400</MaximumAcquisitionAmount>
+            <MinimumAcquisitionAmount>400</MinimumAcquisitionAmount>
+            <MaximumAcquisitionAmount>4000</MaximumAcquisitionAmount>
         </Component>
         <Component>
             <Id>
@@ -161,12 +161,12 @@
             <Health>18</Health>
             <MinimumOfferAmount>1000</MinimumOfferAmount>
             <MaximumOfferAmount>3000</MaximumOfferAmount>
-            <MinimumOrderAmount>60</MinimumOrderAmount>
-            <MaximumOrderAmount>1000</MaximumOrderAmount>
+            <MinimumOrderAmount>600</MinimumOrderAmount>
+            <MaximumOrderAmount>10000</MaximumOrderAmount>
             <CanPlayerOrder>true</CanPlayerOrder>
 
-            <MinimumAcquisitionAmount>60</MinimumAcquisitionAmount>
-            <MaximumAcquisitionAmount>1000</MaximumAcquisitionAmount>
+            <MinimumAcquisitionAmount>600</MinimumAcquisitionAmount>
+            <MaximumAcquisitionAmount>10000</MaximumAcquisitionAmount>
         </Component>
         <Component>
             <Id>
@@ -189,12 +189,12 @@
             <Health>22</Health>
             <MinimumOfferAmount>100</MinimumOfferAmount>
             <MaximumOfferAmount>1000</MaximumOfferAmount>
-            <MinimumOrderAmount>80</MinimumOrderAmount>
-            <MaximumOrderAmount>500</MaximumOrderAmount>
+            <MinimumOrderAmount>800</MinimumOrderAmount>
+            <MaximumOrderAmount>5000</MaximumOrderAmount>
             <CanPlayerOrder>true</CanPlayerOrder>
 
-            <MinimumAcquisitionAmount>80</MinimumAcquisitionAmount>
-            <MaximumAcquisitionAmount>500</MaximumAcquisitionAmount>
+            <MinimumAcquisitionAmount>800</MinimumAcquisitionAmount>
+            <MaximumAcquisitionAmount>5000</MaximumAcquisitionAmount>
         </Component>
         <Component>
             <Id>
@@ -217,12 +217,12 @@
             <Health>14</Health>
             <MinimumOfferAmount>1000</MinimumOfferAmount>
             <MaximumOfferAmount>2000</MaximumOfferAmount>
-            <MinimumOrderAmount>100</MinimumOrderAmount>
-            <MaximumOrderAmount>1000</MaximumOrderAmount>
+            <MinimumOrderAmount>1000</MinimumOrderAmount>
+            <MaximumOrderAmount>10000</MaximumOrderAmount>
             <CanPlayerOrder>true</CanPlayerOrder>
 
-            <MinimumAcquisitionAmount>100</MinimumAcquisitionAmount>
-            <MaximumAcquisitionAmount>1000</MaximumAcquisitionAmount>
+            <MinimumAcquisitionAmount>1000</MinimumAcquisitionAmount>
+            <MaximumAcquisitionAmount>10000</MaximumAcquisitionAmount>
         </Component>
         <Component>
             <Id>
@@ -245,12 +245,12 @@
             <Health>12</Health>
             <MinimumOfferAmount>100</MinimumOfferAmount>
             <MaximumOfferAmount>1000</MaximumOfferAmount>
-            <MinimumOrderAmount>20</MinimumOrderAmount>
-            <MaximumOrderAmount>500</MaximumOrderAmount>
+            <MinimumOrderAmount>200</MinimumOrderAmount>
+            <MaximumOrderAmount>5000</MaximumOrderAmount>
             <CanPlayerOrder>true</CanPlayerOrder>
 
-            <MinimumAcquisitionAmount>20</MinimumAcquisitionAmount>
-            <MaximumAcquisitionAmount>500</MaximumAcquisitionAmount>
+            <MinimumAcquisitionAmount>200</MinimumAcquisitionAmount>
+            <MaximumAcquisitionAmount>5000</MaximumAcquisitionAmount>
         </Component>
         <Component>
             <Id>
@@ -273,12 +273,12 @@
             <Health>14</Health>
             <MinimumOfferAmount>100</MinimumOfferAmount>
             <MaximumOfferAmount>1000</MaximumOfferAmount>
-            <MinimumOrderAmount>200</MinimumOrderAmount>
-            <MaximumOrderAmount>1000</MaximumOrderAmount>
+            <MinimumOrderAmount>2000</MinimumOrderAmount>
+            <MaximumOrderAmount>10000</MaximumOrderAmount>
             <CanPlayerOrder>true</CanPlayerOrder>
 
-            <MinimumAcquisitionAmount>200</MinimumAcquisitionAmount>
-            <MaximumAcquisitionAmount>1000</MaximumAcquisitionAmount>
+            <MinimumAcquisitionAmount>2000</MinimumAcquisitionAmount>
+            <MaximumAcquisitionAmount>10000</MaximumAcquisitionAmount>
         </Component>
         <Component>
             <Id>
@@ -301,12 +301,12 @@
             <Health>14</Health>
             <MinimumOfferAmount>100</MinimumOfferAmount>
             <MaximumOfferAmount>1000</MaximumOfferAmount>
-            <MinimumOrderAmount>50</MinimumOrderAmount>
-            <MaximumOrderAmount>500</MaximumOrderAmount>
+            <MinimumOrderAmount>500</MinimumOrderAmount>
+            <MaximumOrderAmount>5000</MaximumOrderAmount>
             <CanPlayerOrder>true</CanPlayerOrder>
 
-            <MinimumAcquisitionAmount>10</MinimumAcquisitionAmount>
-            <MaximumAcquisitionAmount>100</MaximumAcquisitionAmount>
+            <MinimumAcquisitionAmount>100</MinimumAcquisitionAmount>
+            <MaximumAcquisitionAmount>1000</MaximumAcquisitionAmount>
         </Component>
         <Component>
             <Id>
@@ -329,12 +329,12 @@
             <Health>11</Health>
             <MinimumOfferAmount>1000</MinimumOfferAmount>
             <MaximumOfferAmount>5000</MaximumOfferAmount>
-            <MinimumOrderAmount>300</MinimumOrderAmount>
-            <MaximumOrderAmount>1000</MaximumOrderAmount>
+            <MinimumOrderAmount>3000</MinimumOrderAmount>
+            <MaximumOrderAmount>10000</MaximumOrderAmount>
             <CanPlayerOrder>true</CanPlayerOrder>
 
-            <MinimumAcquisitionAmount>300</MinimumAcquisitionAmount>
-            <MaximumAcquisitionAmount>1000</MaximumAcquisitionAmount>
+            <MinimumAcquisitionAmount>3000</MinimumAcquisitionAmount>
+            <MaximumAcquisitionAmount>10000</MaximumAcquisitionAmount>
         </Component>
         <Component>
             <Id>
@@ -357,12 +357,12 @@
             <Health>14</Health>
             <MinimumOfferAmount>100</MinimumOfferAmount>
             <MaximumOfferAmount>1000</MaximumOfferAmount>
-            <MinimumOrderAmount>100</MinimumOrderAmount>
-            <MaximumOrderAmount>500</MaximumOrderAmount>
+            <MinimumOrderAmount>1000</MinimumOrderAmount>
+            <MaximumOrderAmount>5000</MaximumOrderAmount>
             <CanPlayerOrder>true</CanPlayerOrder>
 
-            <MinimumAcquisitionAmount>10</MinimumAcquisitionAmount>
-            <MaximumAcquisitionAmount>100</MaximumAcquisitionAmount>
+            <MinimumAcquisitionAmount>100</MinimumAcquisitionAmount>
+            <MaximumAcquisitionAmount>1000</MaximumAcquisitionAmount>
         </Component>
         <Component>
             <Id>
@@ -385,12 +385,12 @@
             <Health>12</Health>
             <MinimumOfferAmount>100</MinimumOfferAmount>
             <MaximumOfferAmount>500</MaximumOfferAmount>
-            <MinimumOrderAmount>50</MinimumOrderAmount>
-            <MaximumOrderAmount>500</MaximumOrderAmount>
+            <MinimumOrderAmount>500</MinimumOrderAmount>
+            <MaximumOrderAmount>5000</MaximumOrderAmount>
             <CanPlayerOrder>true</CanPlayerOrder>
 
-            <MinimumAcquisitionAmount>10</MinimumAcquisitionAmount>
-            <MaximumAcquisitionAmount>100</MaximumAcquisitionAmount>
+            <MinimumAcquisitionAmount>100</MinimumAcquisitionAmount>
+            <MaximumAcquisitionAmount>1000</MaximumAcquisitionAmount>
         </Component>
         <Component>
             <Id>
@@ -413,12 +413,12 @@
             <Health>12</Health>
             <MinimumOfferAmount>10</MinimumOfferAmount>
             <MaximumOfferAmount>50</MaximumOfferAmount>
-            <MinimumOrderAmount>5</MinimumOrderAmount>
-            <MaximumOrderAmount>40</MaximumOrderAmount>
+            <MinimumOrderAmount>50</MinimumOrderAmount>
+            <MaximumOrderAmount>400</MaximumOrderAmount>
             <CanPlayerOrder>true</CanPlayerOrder>
 
-            <MinimumAcquisitionAmount>10</MinimumAcquisitionAmount>
-            <MaximumAcquisitionAmount>50</MaximumAcquisitionAmount>
+            <MinimumAcquisitionAmount>100</MinimumAcquisitionAmount>
+            <MaximumAcquisitionAmount>500</MaximumAcquisitionAmount>
         </Component>
         <Component>
             <Id>
@@ -441,12 +441,12 @@
             <Health>12</Health>
             <MinimumOfferAmount>100</MinimumOfferAmount>
             <MaximumOfferAmount>500</MaximumOfferAmount>
-            <MinimumOrderAmount>100</MinimumOrderAmount>
-            <MaximumOrderAmount>500</MaximumOrderAmount>
+            <MinimumOrderAmount>1000</MinimumOrderAmount>
+            <MaximumOrderAmount>5000</MaximumOrderAmount>
             <CanPlayerOrder>true</CanPlayerOrder>
 
-            <MinimumAcquisitionAmount>100</MinimumAcquisitionAmount>
-            <MaximumAcquisitionAmount>500</MaximumAcquisitionAmount>
+            <MinimumAcquisitionAmount>1000</MinimumAcquisitionAmount>
+            <MaximumAcquisitionAmount>5000</MaximumAcquisitionAmount>
         </Component>
         <Component>
             <Id>
@@ -469,12 +469,12 @@
             <Health>11</Health>
             <MinimumOfferAmount>30</MinimumOfferAmount>
             <MaximumOfferAmount>500</MaximumOfferAmount>
-            <MinimumOrderAmount>40</MinimumOrderAmount>
-            <MaximumOrderAmount>500</MaximumOrderAmount>
+            <MinimumOrderAmount>400</MinimumOrderAmount>
+            <MaximumOrderAmount>5000</MaximumOrderAmount>
             <CanPlayerOrder>true</CanPlayerOrder>
 
-            <MinimumAcquisitionAmount>10</MinimumAcquisitionAmount>
-            <MaximumAcquisitionAmount>50</MaximumAcquisitionAmount>
+            <MinimumAcquisitionAmount>100</MinimumAcquisitionAmount>
+            <MaximumAcquisitionAmount>500</MaximumAcquisitionAmount>
         </Component>
         <Component>
             <Id>
@@ -497,12 +497,12 @@
             <Health>11</Health>
             <MinimumOfferAmount>30</MinimumOfferAmount>
             <MaximumOfferAmount>60</MaximumOfferAmount>
-            <MinimumOrderAmount>10</MinimumOrderAmount>
-            <MaximumOrderAmount>50</MaximumOrderAmount>
+            <MinimumOrderAmount>100</MinimumOrderAmount>
+            <MaximumOrderAmount>500</MaximumOrderAmount>
             <CanPlayerOrder>true</CanPlayerOrder>
 
-            <MinimumAcquisitionAmount>10</MinimumAcquisitionAmount>
-            <MaximumAcquisitionAmount>50</MaximumAcquisitionAmount>
+            <MinimumAcquisitionAmount>100</MinimumAcquisitionAmount>
+            <MaximumAcquisitionAmount>500</MaximumAcquisitionAmount>
         </Component>
         <Component>
             <Id>
@@ -525,12 +525,12 @@
             <Health>21</Health>
             <MinimumOfferAmount>10</MinimumOfferAmount>
             <MaximumOfferAmount>50</MaximumOfferAmount>
-            <MinimumOrderAmount>6</MinimumOrderAmount>
-            <MaximumOrderAmount>18</MaximumOrderAmount>
+            <MinimumOrderAmount>60</MinimumOrderAmount>
+            <MaximumOrderAmount>180</MaximumOrderAmount>
             <CanPlayerOrder>true</CanPlayerOrder>
 
-            <MinimumAcquisitionAmount>6</MinimumAcquisitionAmount>
-            <MaximumAcquisitionAmount>18</MaximumAcquisitionAmount>
+            <MinimumAcquisitionAmount>60</MinimumAcquisitionAmount>
+            <MaximumAcquisitionAmount>180</MaximumAcquisitionAmount>
         </Component>        
         <Component>
             <Id>
@@ -553,12 +553,12 @@
             <Health>11</Health>
             <MinimumOfferAmount>30</MinimumOfferAmount>
             <MaximumOfferAmount>100</MaximumOfferAmount>
-            <MinimumOrderAmount>30</MinimumOrderAmount>
-            <MaximumOrderAmount>100</MaximumOrderAmount>
+            <MinimumOrderAmount>300</MinimumOrderAmount>
+            <MaximumOrderAmount>1000</MaximumOrderAmount>
             <CanPlayerOrder>true</CanPlayerOrder>
 
-            <MinimumAcquisitionAmount>10</MinimumAcquisitionAmount>
-            <MaximumAcquisitionAmount>30</MaximumAcquisitionAmount>
+            <MinimumAcquisitionAmount>100</MinimumAcquisitionAmount>
+            <MaximumAcquisitionAmount>300</MaximumAcquisitionAmount>
         </Component>
         <Component>
             <Id>
@@ -581,12 +581,12 @@
             <Health>14</Health>
             <MinimumOfferAmount>100</MinimumOfferAmount>
             <MaximumOfferAmount>500</MaximumOfferAmount>
-            <MinimumOrderAmount>50</MinimumOrderAmount>
-            <MaximumOrderAmount>100</MaximumOrderAmount>
+            <MinimumOrderAmount>500</MinimumOrderAmount>
+            <MaximumOrderAmount>1000</MaximumOrderAmount>
             <CanPlayerOrder>true</CanPlayerOrder>
 
-            <MinimumAcquisitionAmount>10</MinimumAcquisitionAmount>
-            <MaximumAcquisitionAmount>120</MaximumAcquisitionAmount>
+            <MinimumAcquisitionAmount>100</MinimumAcquisitionAmount>
+            <MaximumAcquisitionAmount>1200</MaximumAcquisitionAmount>
         </Component>
         <Component>
             <Id>
@@ -609,12 +609,124 @@
             <Health>14</Health>
             <MinimumOfferAmount>10</MinimumOfferAmount>
             <MaximumOfferAmount>50</MaximumOfferAmount>
-            <MinimumOrderAmount>10</MinimumOrderAmount>
-            <MaximumOrderAmount>50</MaximumOrderAmount>
+            <MinimumOrderAmount>100</MinimumOrderAmount>
+            <MaximumOrderAmount>500</MaximumOrderAmount>
+            <CanPlayerOrder>true</CanPlayerOrder>
+
+            <MinimumAcquisitionAmount>100</MinimumAcquisitionAmount>
+            <MaximumAcquisitionAmount>500</MaximumAcquisitionAmount>
+        </Component>
+		<Component>
+            <Id>
+                <TypeId>Component</TypeId>
+                <SubtypeId>Tech2x</SubtypeId>
+            </Id>
+            <DisplayName>Common Tech</DisplayName>
+            <Icon>Textures\tech2x.dds</Icon>
+            <Size>
+                <X>1</X>
+                <Y>0.7</Y>
+                <Z>0.4</Z>
+            </Size>
+            <Mass>50</Mass>
+            <Volume>5</Volume>
+            <Model>Models\Components\gravity_generator_components_component.mwm</Model>
+            <PhysicalMaterial>Metal</PhysicalMaterial>
+            <MaxIntegrity>500</MaxIntegrity>
+            <DropProbability>0.5</DropProbability>
+            <Health>1000</Health>
+			<MinimalPricePerUnit>250000</MinimalPricePerUnit>
+            <MinimumOfferAmount>400</MinimumOfferAmount>
+            <MaximumOfferAmount>3000</MaximumOfferAmount>
+            <MinimumOrderAmount>100</MinimumOrderAmount>
+            <MaximumOrderAmount>1000</MaximumOrderAmount>
+            <CanPlayerOrder>true</CanPlayerOrder>
+
+            <MinimumAcquisitionAmount>20</MinimumAcquisitionAmount>
+            <MaximumAcquisitionAmount>100</MaximumAcquisitionAmount>
+        </Component>
+        <Component>
+            <Id>
+                <TypeId>Component</TypeId>
+                <SubtypeId>Tech4x</SubtypeId>
+            </Id>
+            <DisplayName>Rare Tech</DisplayName>
+            <Icon>Textures\tech4x.dds</Icon>
+            <Size>
+                <X>1</X>
+                <Y>0.7</Y>
+                <Z>0.4</Z>
+            </Size>
+            <Mass>60</Mass>
+            <Volume>5</Volume>
+            <Model>Models\Components\gravity_generator_components_component.mwm</Model>
+            <PhysicalMaterial>Metal</PhysicalMaterial>
+            <MaxIntegrity>500</MaxIntegrity>
+            <DropProbability>0.5</DropProbability>
+            <Health>2000</Health>
+			<MinimalPricePerUnit>500000</MinimalPricePerUnit>
+            <MinimumOfferAmount>300</MinimumOfferAmount>
+            <MaximumOfferAmount>2500</MaximumOfferAmount>
+            <MinimumOrderAmount>100</MinimumOrderAmount>
+            <MaximumOrderAmount>2500</MaximumOrderAmount>
             <CanPlayerOrder>true</CanPlayerOrder>
 
             <MinimumAcquisitionAmount>10</MinimumAcquisitionAmount>
             <MaximumAcquisitionAmount>50</MaximumAcquisitionAmount>
+        </Component>
+        <Component>
+            <Id>
+                <TypeId>Component</TypeId>
+                <SubtypeId>Tech8x</SubtypeId>
+            </Id>
+            <DisplayName>Exotic Tech</DisplayName>
+            <Icon>Textures\tech8x.dds</Icon>
+            <Size>
+                <X>1</X>
+                <Y>0.7</Y>
+                <Z>0.4</Z>
+            </Size>
+            <Mass>70</Mass>
+            <Volume>5</Volume>
+            <Model>Models\Components\gravity_generator_components_component.mwm</Model>
+            <PhysicalMaterial>Metal</PhysicalMaterial>
+            <MaxIntegrity>500</MaxIntegrity>
+            <DropProbability>0.5</DropProbability>
+            <Health>4000</Health>
+			<MinimalPricePerUnit>1000000</MinimalPricePerUnit>
+            <MinimumOfferAmount>200</MinimumOfferAmount>
+            <MaximumOfferAmount>1250</MaximumOfferAmount>
+            <MinimumOrderAmount>50</MinimumOrderAmount>
+            <MaximumOrderAmount>500</MaximumOrderAmount>
+            <CanPlayerOrder>true</CanPlayerOrder>
+
+            <MinimumAcquisitionAmount>5</MinimumAcquisitionAmount>
+            <MaximumAcquisitionAmount>25</MaximumAcquisitionAmount>
+        </Component>
+		<Component>
+            <Id>
+                <TypeId>Component</TypeId>
+                <SubtypeId>ZoneChip</SubtypeId>
+            </Id>
+            <DisplayName>DisplayName_Item_ZoneChip</DisplayName>
+            <Icon>Textures\GUI\Icons\Items\ZoneChip_Item.dds</Icon>
+            <Size>
+                <X>0.1</X>
+                <Y>0.1</Y>
+                <Z>0.2</Z>
+            </Size>
+            <Mass>0.250</Mass>
+            <Volume>0.2</Volume>
+            <Model>Models\Items\ZoneChip_Item.mwm</Model>
+            <PhysicalMaterial>Metal</PhysicalMaterial>
+
+            <MinimalPricePerUnit>1000000</MinimalPricePerUnit>
+            <MinimumOfferAmount>5</MinimumOfferAmount>
+            <MaximumOfferAmount>15</MaximumOfferAmount>
+            <CanPlayerOrder>true</CanPlayerOrder>
+
+            <MaxIntegrity>1</MaxIntegrity>
+            <DropProbability>0.1</DropProbability>
         </Component>
     </Components>
 </Definitions>
