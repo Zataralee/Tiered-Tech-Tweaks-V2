@@ -21,6 +21,26 @@
             <WeaponDefinitionId Subtype="PreciseAutomaticRifleGun2x" />
             <ShowAmmoCount>true</ShowAmmoCount>
         </PhysicalItem>
+		<PhysicalItem xsi:type="MyObjectBuilder_PhysicalItemDefinition">
+            <Id>
+                <TypeId>PhysicalObject</TypeId>
+                <SubtypeId>SpaceCredit</SubtypeId>
+            </Id>
+            <DisplayName>DisplayName_Item_SpaceCredit</DisplayName>
+            <Description>Description_SpaceCredit</Description>
+            <Icon>Textures\GUI\Icons\Items\SpaceCredit.dds</Icon>
+            <Size>
+                <X>0.001</X>
+                <Y>0.001</Y>
+                <Z>0.001</Z>
+            </Size>
+            <Mass>0.001</Mass>
+            <Volume>0</Volume>
+            <MaxStackAmount>10000000</MaxStackAmount> 
+			<!-- increasing stack size x10 and elimating volume so it's easier to go to ATM with large amounts. current volume limit player to 8million credits a trip, which is anoying -->
+            <Model>Models\Components\SpaceCredit.mwm</Model>
+            <PhysicalMaterial>Metal</PhysicalMaterial>
+        </PhysicalItem>
 
     </PhysicalItems>
 </Definitions>
